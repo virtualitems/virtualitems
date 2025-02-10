@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bienvenidos a mi repositorio
 
-<!--
-**virtualitems/virtualitems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Con más de seis años de experiencia en el desarrollo de soluciones tecnológicas, lidero equipos especializados en sistematización, automatización y creación de productos digitales.
 
-Here are some ideas to get you started:
+Me enfoco en la optimización de procesos, el desarrollo de productos, la formación de líderes y gestión de proyectos de alta productividad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es estar siempre a la vanguardia con productos de alta calidad.
+
+# Enlaces
+
+[¡Ir al LinkedIn!](https://www.linkedin.com/in/alejandro-carrasco-desarrollo-profesional)
+
+[¡Ir al Website!](https://www.alejandrocr.co)
